@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IE:\load runner scripts\dummy01
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ee:\load runner scripts\dummy01\\logfile.log
+e:\load runner scripts\dummy01\\combined_dummy01.c
+e:\load runner scripts\dummy01\\pre_cci.c

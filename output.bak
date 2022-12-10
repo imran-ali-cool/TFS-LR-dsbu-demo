@@ -1,0 +1,37 @@
+Virtual User Script started at: 6/10/2021 6:25:18 PM
+Starting action vuser_init.
+Web Turbo Replay of LoadRunner 12.60.0 for Windows 10; build 971 (Aug 09 2018 11:27:13)  	[MsgId: MMSG-26983]
+Run mode: HTML  	[MsgId: MMSG-26993]
+Replay user agent: SGPlatform 2.0  	[MsgId: MMSG-26988]
+Runtime Settings file: "E:\load runner scripts\dummy01\\default.cfg"  	[MsgId: MMSG-27141]
+Ending action vuser_init.
+Running Vuser...
+Starting iteration 1.
+Maximum number of concurrent connections per server: 2  	[MsgId: MMSG-26989]
+Starting action strtok_Function.
+strtok_Function.c(25): Notify: Saving Parameter "city = greenland:loiusville:washigtonDC".
+strtok_Function.c(26): Notify: Parameter Substitution: parameter "city" =  "greenland:loiusville:washigtonDC"
+strtok_Function.c(27): Notify: Saving Parameter "token1 = greenland".
+strtok_Function.c(29): Notify: Saving Parameter "token2 = loiusville".
+strtok_Function.c(30): DESKTOP-EHOFG2U
+strtok_Function.c(32): Notify: Transaction "fa01_ab_{diffren_dogs}" started.
+strtok_Function.c(36): Notify: Transaction "fa01_ab_{diffren_dogs}" ended with a "Pass" status (Duration: 0.0034).
+Ending action strtok_Function.
+Ending iteration 1.
+Starting iteration 2.
+Notify: Next row for parameter diffren_dogs = 2 [table  = diffren_dogs].
+Notify: Getting new value for parameter 'diffren_dogs': table = 'diffren_dogs.dat' column = '0' row = '2'.
+Starting action strtok_Function.
+strtok_Function.c(25): Notify: Saving Parameter "city = greenland:loiusville:washigtonDC".
+strtok_Function.c(26): Notify: Parameter Substitution: parameter "city" =  "greenland:loiusville:washigtonDC"
+strtok_Function.c(27): Notify: Saving Parameter "token1 = greenland".
+strtok_Function.c(29): Notify: Saving Parameter "token2 = loiusville".
+strtok_Function.c(30): DESKTOP-EHOFG2U
+strtok_Function.c(32): Notify: Transaction "fa01_ab_{diffren_dogs}" started.
+strtok_Function.c(36): Notify: Transaction "fa01_ab_{diffren_dogs}" ended with a "Pass" status (Duration: 0.0036).
+Ending action strtok_Function.
+Ending iteration 2.
+Ending Vuser...
+Starting action vuser_end.
+Ending action vuser_end.
+Vuser Terminated.
