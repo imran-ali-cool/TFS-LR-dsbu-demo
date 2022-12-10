@@ -1,0 +1,28 @@
+[
+    {
+        "actionName": "cat",
+        "steps": [
+            {
+                "stepId": "STEP4",
+                "stepName": "Url: sm_cats.gif",
+                "infFile": "t4.inf",
+                "time": 1624978931528
+            },
+            {
+                "stepId": "STEP5",
+                "stepName": "Url: Return to Main Menu_3",
+                "infFile": "t5.inf",
+                "time": 1624978931782
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "1_transaction_cat",
+                "rawStartTime": 1624978931250,
+                "rawEndTime": 1624978931784,
+                "thinkTime": 0.0,
+                "wastedTime": 0.03567099571228027
+            }
+        ]
+    }
+]

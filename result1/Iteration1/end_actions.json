@@ -1,0 +1,28 @@
+[
+    {
+        "actionName": "vuser_end",
+        "steps": [
+            {
+                "stepId": "STEP6",
+                "stepName": "Url: Sign Out",
+                "infFile": "t6.inf",
+                "time": 1624978932269
+            },
+            {
+                "stepId": "STEP7",
+                "stepName": "Custom Request: upload_2",
+                "infFile": "t7.inf",
+                "time": 1624978932969
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "1_transaction_logout",
+                "rawStartTime": 1624978931797,
+                "rawEndTime": 1624978932969,
+                "thinkTime": 0.0,
+                "wastedTime": 0.03060293197631836
+            }
+        ]
+    }
+]

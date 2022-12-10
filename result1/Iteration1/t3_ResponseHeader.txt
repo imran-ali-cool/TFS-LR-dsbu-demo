@@ -1,0 +1,10 @@
+HTTP/2.0 200
+Status: 200
+server: nginx/1.19.2
+date: Tue, 29 Jun 2021 15:02:11 GMT
+content-type: text/html;charset=UTF-8
+vary: Accept-Encoding
+content-language: en
+strict-transport-security: max-age=15724800; includeSubDomains
+content-encoding: gzip
+

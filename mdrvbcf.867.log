@@ -1,0 +1,12 @@
+Start auto log messages stack - Iteration 5.	[MsgId: MMSG-10545]
+vuser_end.c(9): Registered web_reg_find successful for "Text=JPetStore Demo" (count=1)  	[MsgId: MMSG-26364]
+vuser_end.c(9): web_url("Sign Out") was successful, 1460 body bytes, 563 header bytes  	[MsgId: MMSG-26386]
+vuser_end.c(19): web_add_auto_header("Accept-Language") started  	[MsgId: MMSG-26355]
+vuser_end.c(19): web_add_auto_header("Accept-Language") was successful  	[MsgId: MMSG-26392]
+vuser_end.c(22): web_custom_request("upload_2") started  	[MsgId: MMSG-26355]
+vuser_end.c(22): Redirecting "https://google.com/domainreliability/upload" (redirection depth is 0)  	[MsgId: MMSG-26694]
+vuser_end.c(22): To location "https://beacons5.gvt3.com/domainreliability/upload-redirected"  	[MsgId: MMSG-26693]
+vuser_end.c(22): Error -26631: HTTP Status-Code=400 (Bad Request) for "https://beacons5.gvt3.com/domainreliability/upload-redirected"  	[MsgId: MERR-26631]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
